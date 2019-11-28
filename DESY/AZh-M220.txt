@@ -1,0 +1,18 @@
+/afs/cern.ch/user/y/ywen/public/AZhSyn/NTuples_AToZhToLLTauTau_4f_LO_correctwidth_M-220_13TeV-madgraph-pythia8.root
+
+
+v1:
+First round of Syn ntuple
+MISSING:
+1. electron, muon, tau SFs
+
+2. some variables:
+Z_Pt	 
+Z_DR	 
+Z_SS
+
+H_Pt	 
+H_DR	 
+H_SS
+
+3.trigger
