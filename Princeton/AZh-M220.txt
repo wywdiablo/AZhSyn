@@ -5,3 +5,6 @@ First round of Sync ntuple
 
 v2:
 Switch to DeepTau selections
+
+v3:
+Adjust DR cuts to match AZH (as opposed to ZH)
