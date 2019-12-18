@@ -1,8 +1,20 @@
+v2 lastest:
+/afs/cern.ch/user/y/ywen/public/AZhSyn_v2/NTuples_AToZhToLLTauTau_4f_LO_correctwidth_M-220_13TeV-madgraph-pythia8.root
+
+Updates:
+1. Changed to new naming convention as Princeton proposal:
+m_vis -> m_ll
+H_vis -> m_vis
+H_pt -> pt_tt
+2. Implemented the Z boson visible mass cut, 60 < m_ll < 120 GeV
+3. Used latest electron id "electron_mva_wp90_noIso_Fall17_v2"
+
+
+v1 outdated:
 /afs/cern.ch/user/y/ywen/public/AZhSyn/NTuples_AToZhToLLTauTau_4f_LO_correctwidth_M-220_13TeV-madgraph-pythia8.root
-
-
-v1:
 First round of Syn ntuple
+
+
 MISSING:
 1. electron, muon, tau SFs
 
