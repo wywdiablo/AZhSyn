@@ -1,5 +1,7 @@
 /afs/cern.ch/user/m/marlow/public/AZhSyn/Princeton_AZh_M220_eemt.root
 
 v1:
-First round of Syn ntuple
+First round of Sync ntuple
 
+v2:
+Switch to DeepTau selections
