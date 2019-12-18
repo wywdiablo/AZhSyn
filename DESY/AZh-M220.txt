@@ -9,22 +9,21 @@ H_pt -> pt_tt
 2. Implemented the Z boson visible mass cut, 60 < m_ll < 120 GeV
 3. Used latest electron id "electron_mva_wp90_noIso_Fall17_v2"
 
+MISSING:
+1. electron, muon, tau SFs
+
+2. some variables:
+Z_DR
+Z_SS
+
+H_DR
+H_SS
+
+3.trigger
+
 
 v1 outdated:
 /afs/cern.ch/user/y/ywen/public/AZhSyn/NTuples_AToZhToLLTauTau_4f_LO_correctwidth_M-220_13TeV-madgraph-pythia8.root
 First round of Syn ntuple
 
 
-MISSING:
-1. electron, muon, tau SFs
-
-2. some variables:
-Z_Pt	 
-Z_DR	 
-Z_SS
-
-H_Pt	 
-H_DR	 
-H_SS
-
-3.trigger
