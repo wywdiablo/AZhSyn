@@ -1,5 +1,5 @@
-# 2017-sync
-2016 incarnation of synchronisation
+# 2016-sync
+Synchronisation for AZh to lltautau analysis for Run 2, first we started 2016 Sync on EEMT channel
 
 See here for instructions how to produce sync trees: https://twiki.cern.ch/twiki/bin/view/CMS/AZh-Htautau-Run2#Synchronization_Selection
 
