@@ -1,4 +1,11 @@
+/afs/cern.ch/user/m/marlow/public/AZhSyn/Princeton_AZh_M220_eeem.root
+/afs/cern.ch/user/m/marlow/public/AZhSyn/Princeton_AZh_M220_eeet.root
 /afs/cern.ch/user/m/marlow/public/AZhSyn/Princeton_AZh_M220_eemt.root
+/afs/cern.ch/user/m/marlow/public/AZhSyn/Princeton_AZh_M220_eemt.root
+/afs/cern.ch/user/m/marlow/public/AZhSyn/Princeton_AZh_M220_mmem.root
+/afs/cern.ch/user/m/marlow/public/AZhSyn/Princeton_AZh_M220_mmet.root
+/afs/cern.ch/user/m/marlow/public/AZhSyn/Princeton_AZh_M220_mmmt.root
+/afs/cern.ch/user/m/marlow/public/AZhSyn/Princeton_AZh_M220_mmtt.root
 
 v1:
 First round of Sync ntuple
@@ -8,3 +15,12 @@ Switch to DeepTau selections
 
 v3:
 Adjust DR cuts to match AZH (as opposed to ZH)
+
+v4:
+Went through AZH TWiki in detail, attempting to match cuts as well as possible.   Some selections are inconsistent with H_tautau group recommendations and should be examined, but for now we stuck with them.   
+
+There are (at least) three exceptions:
+  for muons: (Muon_mediumId || MuontightId)  and
+  for the muon trigger:  (HLT_IsoMu24 || HLT_IsoMu27)  and
+  for the electron trigger: (HLT_Ele27_eta2p1_WPTight_Gsf || HLT_Ele25_eta2p1_WPTight_Gsf )
+
