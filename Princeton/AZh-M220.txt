@@ -26,4 +26,7 @@ There are (at least) three exceptions:
   
  v5:
  Changed trigger to include di-lepton triggers
+ 
+ v6:
+ Remove all trigger requirements for now.
 
