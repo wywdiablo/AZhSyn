@@ -11,7 +11,7 @@ v3:
 8 final states: eeem, eeet, eemt, eett, mmem, mmet, mmmt, mmtt
 Stored both OS and SS Higgs candidates now, fix a bug on electron id
 
-v2 lastest:
+v2
 /afs/cern.ch/user/y/ywen/public/AZhSyn/v2/NTuples_AToZhToLLTauTau_4f_LO_correctwidth_M-220_13TeV-madgraph-pythia8.root
 
 Updates:
