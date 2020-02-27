@@ -1,5 +1,18 @@
+v3:
+/afs/cern.ch/user/y/ywen/public/AZhSyn/v3/DESY_eeem.root
+/afs/cern.ch/user/y/ywen/public/AZhSyn/v3/DESY_eeet.root
+/afs/cern.ch/user/y/ywen/public/AZhSyn/v3/DESY_eemt.root
+/afs/cern.ch/user/y/ywen/public/AZhSyn/v3/DESY_eett.root
+/afs/cern.ch/user/y/ywen/public/AZhSyn/v3/DESY_mmem.root
+/afs/cern.ch/user/y/ywen/public/AZhSyn/v3/DESY_mmet.root
+/afs/cern.ch/user/y/ywen/public/AZhSyn/v3/DESY_mmmt.root
+/afs/cern.ch/user/y/ywen/public/AZhSyn/v3/DESY_mmtt.root
+
+8 final states: eeem, eeet, eemt, eett, mmem, mmet, mmmt, mmtt
+Stored both OS and SS Higgs candidates now, fix a bug on electron id
+
 v2 lastest:
-/afs/cern.ch/user/y/ywen/public/AZhSyn_v2/NTuples_AToZhToLLTauTau_4f_LO_correctwidth_M-220_13TeV-madgraph-pythia8.root
+/afs/cern.ch/user/y/ywen/public/AZhSyn/v2/NTuples_AToZhToLLTauTau_4f_LO_correctwidth_M-220_13TeV-madgraph-pythia8.root
 
 Updates:
 1. Changed to new naming convention as Princeton proposal:
@@ -23,7 +36,7 @@ H_SS
 
 
 v1 outdated:
-/afs/cern.ch/user/y/ywen/public/AZhSyn/NTuples_AToZhToLLTauTau_4f_LO_correctwidth_M-220_13TeV-madgraph-pythia8.root
+/afs/cern.ch/user/y/ywen/public/AZhSyn/v1/NTuples_AToZhToLLTauTau_4f_LO_correctwidth_M-220_13TeV-madgraph-pythia8.root
 First round of Syn ntuple
 
 
