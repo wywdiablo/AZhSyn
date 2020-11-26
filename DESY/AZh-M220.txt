@@ -1,3 +1,9 @@
+v4:
+/afs/cern.ch/user/d/dvats/public/AtoZh_sync/Sync_desy_2016_AZh220_eemt_single_elec_trg.root
+
+Updates:
+Applying single electron trigger selection now.
+
 v3:
 /afs/cern.ch/user/y/ywen/public/AZhSyn/v3/DESY_eeem.root
 /afs/cern.ch/user/y/ywen/public/AZhSyn/v3/DESY_eeet.root
