@@ -1,3 +1,9 @@
+v6:
+/afs/cern.ch/user/d/dvats/public/AtoZh_sync/v6/Sync_desy_2018_AZh220_eemt_single_elec_trg.root
+
+Updates:
+Added tau_byVVVLooseDeepTau2017v2p1VSjet > 0.5 while selecting loose taus
+
 v5:
 /afs/cern.ch/user/d/dvats/public/AtoZh_sync/v5/Sync_desy_2018_AZh220_eemt_single_elec_trg.root
 
